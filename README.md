@@ -1,5 +1,5 @@
 Usage
 ```bash
-    npm install
-    npm run convert
+npm install
+npm run convert
 ```
